@@ -4,6 +4,7 @@ Temp/
 obj/
 Logs/
 UserSettings/
+Recordings/
 *.csproj
 *.sln
 .vsconfig
